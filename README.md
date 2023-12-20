@@ -6,6 +6,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Versão do NodeJS atualizada (versão no projeto `v18.19.0`)
 - Versão do Typescript atualizada (versão no projeto `v5.3.3`)
+- Ter o arquivo .env com as credenciais correspondentes ao seu banco de dados local (ou remoto)
 
 ## 🚀 Instalando tsc_api_restful
 
@@ -17,10 +18,10 @@ Linux e Windows (wsl):
 npm i
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando
 
 Para usar <nome_do_projeto>, siga estas etapas:
 
 ```
-<exemplo_de_uso>
+npm run dev
 ```
