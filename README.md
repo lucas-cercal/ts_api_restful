@@ -20,7 +20,7 @@ npm i
 
 ## ☕ Usando
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar, siga estas etapas:
 
 ```
 npm run dev
